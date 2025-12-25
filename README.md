@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Võ Nhựt Hào (VNH) 👋
 
-<!--
-**vonhut-hao/vonhut-hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software Engineering Student @ Can Tho University (Year 3)
 
-Here are some ideas to get you started:
+I am a passionate Backend Developer and aspiring DevOps Engineer. Currently focusing on building scalable systems and automating infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **Backend projects with Python & Golang**
+- 🌱 I’m currently learning: **DevOps, CI/CD, Cloud (AWS/GCP), and Kubernetes**
+- ⚡ Course: **Boot.dev - Backend Development Track**
+- 🌐 Website: [vnhlab.id.vn](https://vnhlab.id.vn)
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Python, Golang, Bash
+- **DevOps:** Docker, Linux (Ubuntu/Debian), WSL2, Git
+- **Networking:** CCNA Concepts, Home Lab setup
+
+---
+
+### 📊 GitHub Stats
+
+![Hào's GitHub stats](https://github-readme-stats.vercel.app/api?username=vonhut-hao&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonhut-hao&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me:
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vonhuthao.dev@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/vonhuthao)
