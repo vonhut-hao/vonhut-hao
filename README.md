@@ -35,12 +35,8 @@ I focus on building scalable backend systems, automating development workflows, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vonhut-hao&show_icons=true&theme=tokyonight" alt="Hào's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vonhut-hao&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vonhut-hao&theme=tokyonight&hide_border=true" alt="Hào's Streak" />
 </p>
-
----
 
 ## 📫 Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vonhuthao.dev@gmail.com)
