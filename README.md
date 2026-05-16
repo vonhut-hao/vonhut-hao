@@ -9,7 +9,7 @@ I focus on building scalable backend systems, automating development workflows, 
 
 ## 🔭 Current Focus & Projects
 - **Backend & DevOps Engineering:** Actively completing the **Boot.dev** tracks, building high-performance APIs with **Python** & **Golang**, and mastering deployment pipelines, containerization, and networking.
-- **Movie Streaming Platform (Infrastructure):** Architecting the cloud infrastructure and CI/CD pipelines for a video streaming MVP (University Project - CT250). Focused on provisioning and managing **AWS** resources (VPC, S3, CloudFront, ECS, MediaConvert) using **Terraform** to ensure a highly available and secure environment.
+- **Green E-commerce Platform with AI Chatbot:** Architecting the cloud infrastructure and CI/CD pipelines for a sustainable e-commerce MVP (University Project - CT250). Focused on provisioning **AWS** resources (VPC, RDS, ECS, S3) via **Terraform**, and deploying a **Python (FastAPI)** backend integrated with an LLM Chatbot via RAG for environmental impact analysis.
 - **Automation:** Containerizing applications using **Docker** and setting up automated deployment workflows via **GitHub Actions** & **AWS ECR/ECS**.
 
 ---
