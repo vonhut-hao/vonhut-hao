@@ -1,4 +1,4 @@
-# Hi there, I'm Hào Nhựt Võ 👋
+# Hi there, I'm Hào Võ
 
 ### Software Engineering Student @ Can Tho University (Year 3)
 **Backend Developer | DevOps Enthusiast | Cloud Infrastructure**
